@@ -12,6 +12,10 @@ python -m http.server 8000
 
 Then visit http://localhost:8000.
 
+## Validate local assets
+
+Run `python scripts/check_assets.py` to check local HTML/CSS references. The same check runs automatically in GitHub Actions on pushes and pull requests.
+
 ## Project structure
 
 | Path | Purpose |
