@@ -1,5 +1,7 @@
 # Packaging Showcase — HTML/CSS Practice
 
+[![CI](https://github.com/shxamill/project-1/actions/workflows/ci.yml/badge.svg)](https://github.com/shxamill/project-1/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A static front-end practice project built with HTML and CSS. The page presents packaging mockup, dieline, and 3D-design showcase sections using local image assets.
 
 ## Run locally
@@ -34,7 +36,7 @@ See CONTRIBUTING.md. Keep changes focused and verify that local image paths stil
 
 ## License
 
-No repository-level open-source license is currently provided. Do not assume that public availability grants permission to reuse or redistribute the code or included assets.
+This project is licensed under the [MIT License](LICENSE). The MIT License covers only the original HTML and CSS. Brand names, marks, copy and image assets referenced on the page belong to their respective owners and are not covered by this license.
 
 ## Community and security
 
